@@ -1,3 +1,3 @@
 # html-practice
 
-# htmlの練習兼、別アプリのテストデータ
+## Practice of html and Application of test data
